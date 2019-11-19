@@ -1,19 +1,23 @@
-#BJAK Technical Assessment
+<h2>BJAK Technical Assessment</h2>
 
-###Live Demo Site
+<h3>Live Demo Site</h3>
 
 [https://www.thecoderlady.com/bjak/](https://www.thecoderlady.com/bjak/)
 
-###Instructions to run on local server
-As easy as 1, 2, 3...<br>
-1. Clone git repository<br/>
-2. Run 'npm install' to install dependencies<br/>
-3. Run 'npm start' to run the app in development mode on http://localhost:3000<br/>
+<h3>Instructions to run on local server</h3>
+<ol>As easy as 1, 2, 3...
+<li>Clone git repository</li>
+<li>Run 'npm install' to install dependencies</li>
+<li>Run 'npm start' to run the app in development mode on http://localhost:3000</li>
+  </ol>
 
-Please note that the page will reload if you modify the code while the command 'npm start' is running<br>
+<i>Please note that the page will reload if you modify the code while the command 'npm start' is running</i><br>
 
-###Tech Stack / Approach
-ReactJS<br/>
-PWA<br/>
-Create React App by FaceBook<br/>
-Material UI
+<h3>Tech Stack / Approach</h3>
+<ul>
+  <li>ReactJS </li>
+    <li>PWA </li>
+    <li>Create React App by FaceBook </li>
+    <li>Material UI </li>
+</ul>
+
