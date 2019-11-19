@@ -19,9 +19,6 @@ Show the details from the response, the layout is up to your creativity
 
 If possible, please use react.js and pwa. You can deploy the pages anywhere, send us the url if available. Please send us the repository link and indicate in Readme file how to run locally. 
 </p>
-<h3>Live Demo Site</h3>
-
-[https://www.thecoderlady.com/bjak/](https://www.thecoderlady.com/bjak/)
 
 <h3>Instructions to run on local server</h3>
 <p>As easy as 1, 2, 3...</p>
