@@ -5,7 +5,8 @@
 [https://www.thecoderlady.com/bjak/](https://www.thecoderlady.com/bjak/)
 
 <h3>Instructions to run on local server</h3>
-<ol>As easy as 1, 2, 3...
+<p>As easy as 1, 2, 3...</p>
+<ol>
 <li>Clone git repository</li>
 <li>Run 'npm install' to install dependencies</li>
 <li>Run 'npm start' to run the app in development mode on http://localhost:3000</li>
